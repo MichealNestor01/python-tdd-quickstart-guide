@@ -47,3 +47,17 @@ I have made this to help people quickly get going with python TDD (I made this a
     ```
     pip list
     ```
+
+## Coding
+
+Now onto coding, this repo has a simple addition program, with the summation function, and a set of tests for it. 
+
+To run the code do this:
+```
+python src/addition.py
+```
+
+To run the tests do this:
+```
+python -m unittest tests.addition_test
+```
