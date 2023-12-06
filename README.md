@@ -61,3 +61,5 @@ To run the tests do this:
 ```
 python -m unittest tests.addition_test
 ```
+
+You should be able to copy this template to add your own python files, with functions and tests for them :)
